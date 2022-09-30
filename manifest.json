@@ -1,13 +1,13 @@
 {
-  "name": "Saifullah.id",
-  "short_name": "Saifullah",
+  "name": "RR SPORTS",
+  "short_name": "RR SPORTS",
   "display": "standalone",
   "prefer_related_applications": "false",
-  "start_url": "https://www.saifullah.id",
+  "start_url": "https://www.app-tokosenapanangin.com",
   "scope": "/",
   "background_color": "#fff",
   "theme_color": "#009cff",
-  "description": "Teman Terbaik Saat Butuh Informasi",
+  "description": "Toko Senapan Angin",
   "lang": "id",
   "icons": [
     {
